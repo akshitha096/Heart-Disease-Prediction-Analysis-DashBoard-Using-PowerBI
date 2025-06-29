@@ -19,7 +19,7 @@ The goal is to identify **patterns and risk factors** in heart disease cases by:
 ✔️ **Serum Creatinine & Ejection Fraction by Age**  
 ✔️ **Risk Factor Impact (Smoking, Diabetes, Anaemia, BP)**  
 ✔️ **Gender-based filtering for comparison**  
-✔️ Clean, interactive, and responsive layout using Power BI visuals
+✔️ **Clean, interactive, and responsive layout using Power BI visuals**
 
 
 ## 📂 Dataset Information
